@@ -3,3 +3,5 @@
 
 // used in data streaming application
 // used in real time chat application
+
+// command : node index.js to run code
