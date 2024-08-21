@@ -16,7 +16,7 @@ console.log(`${totalMemory/1024/1024/1024}`);
 // to show hostname
 console.log(os.hostname());
 
-//to show platform
+// to show platform
 console.log(os.platform());
 
 // to show temporary
